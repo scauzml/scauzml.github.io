@@ -254,7 +254,9 @@ object {
 ----------------------------------------------- */
 .site-header {
 	padding: 20px 0 0;
-	background: #16171b;
+	background-image: url("../css/images/header.jpg");
+	background-size:100% 100%;
+
 	}
 .site-branding {
 	float: left;
@@ -330,7 +332,7 @@ object {
 	padding: 20px 0 0;
 	}
 #main-navigation .sf-menu {
-	background: #060608;
+
 	}
 #main-navigation .sf-menu > ul > li:after {
 	width: 1px;
